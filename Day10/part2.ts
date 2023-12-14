@@ -127,6 +127,7 @@ area = Math.ceil(Math.abs(area)) / 2;
 console.log(area);
 //calculate
 
+//picks theorem
 let interiorIndices = area - steps / 2 + 1;
 
 console.log(interiorIndices);
